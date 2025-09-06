@@ -37,7 +37,7 @@ This project provides a command-line chat client (`chat_cli.py`) for interacting
 
 3. **Install Dependencies**  
    If your script uses a `requirements.txt` file, install dependencies with:
-   ```text
+   ```sh
    pip install -r requirements.txt
    ```
 
