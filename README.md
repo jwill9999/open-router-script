@@ -30,7 +30,7 @@ This project provides a command-line chat client (`chat_cli.py`) for interacting
 
 2. **Set Up a Virtual Environment (Recommended)**  
    Open your terminal and run:
-   ```python
+   ```sh
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
