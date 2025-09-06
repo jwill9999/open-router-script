@@ -86,7 +86,7 @@ python3 chat_cli.py --version
 ```
 ## Further reading
  * Retrieves the API key from the environment variables.
- * Unskilled: If you're new to handling API keys, consider the following:
+ * Beginner: If you're new to handling API keys, consider the following:
  * - You can create an alias in your shell profile (e.g., `.bashrc`, `.zshrc`) to quickly set or retrieve your API key.
  * - Explore secure storage solutions such as password managers, encrypted files, or secret management services (e.g., HashiCorp Vault, AWS Secrets Manager).
  * - Avoid hardcoding API keys in your source code or sharing them publicly.
